@@ -1,37 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T03:18:34.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="8QNxWfeH6UXK4WWIUtc_" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T03:21:32.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="wHAK521pmKpLJxZbpCio" version="24.0.7" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="2070" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="962" grid="0" gridSize="500" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-mKgr95Z99W6VE-P67Nl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-mKgr95Z99W6VE-P67Nl-1" target="-mKgr95Z99W6VE-P67Nl-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="380" />
-              <mxPoint x="230" y="380" />
+              <mxPoint x="110" y="361" />
+              <mxPoint x="110" y="361" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-1" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="350" width="40" height="60" as="geometry" />
+          <mxGeometry y="331" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="250" width="610" height="350" as="geometry" />
+          <mxGeometry x="80" y="231" width="610" height="350" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;红外测温&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="335" width="100" height="90" as="geometry" />
+          <mxGeometry x="90" y="316" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#66FF66;" vertex="1" parent="1">
-          <mxGeometry x="750" y="230" width="60" height="80" as="geometry" />
+          <mxGeometry x="630" y="211" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;电池&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="745" y="190" width="70" height="40" as="geometry" />
+          <mxGeometry x="625" y="171" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-8" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="260" width="50" height="50" as="geometry" />
+          <mxGeometry x="100" y="241" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-9" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;测温时会闪烁&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="175" y="205" width="170" height="40" as="geometry" />
+          <mxGeometry x="55" y="186" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mKgr95Z99W6VE-P67Nl-11" target="-mKgr95Z99W6VE-P67Nl-26">
           <mxGeometry relative="1" as="geometry" />
@@ -42,83 +42,83 @@
         <mxCell id="-mKgr95Z99W6VE-P67Nl-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mKgr95Z99W6VE-P67Nl-11" target="-mKgr95Z99W6VE-P67Nl-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="460" />
-              <mxPoint x="695" y="460" />
+              <mxPoint x="450" y="441" />
+              <mxPoint x="575" y="441" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-11" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;核心芯片&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="410" y="315" width="160" height="160" as="geometry" />
+          <mxGeometry x="290" y="296" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-mKgr95Z99W6VE-P67Nl-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="420" as="targetPoint" />
+            <mxPoint x="20" y="401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mKgr95Z99W6VE-P67Nl-12" target="-mKgr95Z99W6VE-P67Nl-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;距离感知&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="460" width="100" height="60" as="geometry" />
+          <mxGeometry x="100" y="441" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-13" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;shadow=0;fillColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="390" y="260" width="50" height="50" as="geometry" />
+          <mxGeometry x="270" y="241" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-15" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=#00FF00;" vertex="1" parent="1">
-          <mxGeometry x="465" y="260" width="50" height="50" as="geometry" />
+          <mxGeometry x="345" y="241" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-16" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=#00FFFF;" vertex="1" parent="1">
-          <mxGeometry x="540" y="260" width="50" height="50" as="geometry" />
+          <mxGeometry x="420" y="241" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-18" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;指示灯：&lt;/font&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;红色高温；&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;绿色正常；&lt;/font&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;蓝色低温。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="175" width="260" height="70" as="geometry" />
+          <mxGeometry x="260" y="156" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-19" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;仪器开关&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="255" width="120" height="80" as="geometry" />
+          <mxGeometry x="505" y="236" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-22" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.017;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-mKgr95Z99W6VE-P67Nl-4" target="-mKgr95Z99W6VE-P67Nl-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-mKgr95Z99W6VE-P67Nl-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="680" as="targetPoint" />
+            <mxPoint x="370" y="661" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-25" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;蓝牙模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="413" y="530" width="155" height="60" as="geometry" />
+          <mxGeometry x="293" y="511" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-26" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 语音提示&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" vertex="1" parent="1">
-          <mxGeometry x="625" y="360" width="160" height="70" as="geometry" />
+          <mxGeometry x="505" y="341" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-27" value="" style="triangle;html=1;whiteSpace=wrap;" vertex="1" parent="-mKgr95Z99W6VE-P67Nl-26">
-          <mxGeometry x="20" y="20" width="20" height="30" as="geometry" />
+          <mxGeometry y="20" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mKgr95Z99W6VE-P67Nl-39" target="-mKgr95Z99W6VE-P67Nl-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-39" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;存储芯片&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="506" width="140" height="80" as="geometry" />
+          <mxGeometry x="505" y="487" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="680" width="230" height="220" as="geometry" />
+          <mxGeometry x="260" y="661" width="230" height="220" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-46" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;手机端&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="640" width="100" height="40" as="geometry" />
+          <mxGeometry x="370" y="621" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-47" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;温度显示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="690" width="160" height="100" as="geometry" />
+          <mxGeometry x="295" y="671" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mKgr95Z99W6VE-P67Nl-49" target="-mKgr95Z99W6VE-P67Nl-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-49" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;历史&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="810" width="85" height="80" as="geometry" />
+          <mxGeometry x="385" y="791" width="85" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-50" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;设置&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;界面&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="810" width="85" height="80" as="geometry" />
+          <mxGeometry x="285" y="791" width="85" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-52" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;设置温度和距离&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="275" y="923" width="190" height="40" as="geometry" />
+          <mxGeometry x="155" y="904" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.907;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-mKgr95Z99W6VE-P67Nl-50" target="-mKgr95Z99W6VE-P67Nl-52">
           <mxGeometry relative="1" as="geometry" />
@@ -127,13 +127,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-54" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;数据上传云端&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="670" width="180" height="110" as="geometry" />
+          <mxGeometry x="540" y="651" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-56" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;与pc端&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;共享数据&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="770" width="150" height="140" as="geometry" />
+          <mxGeometry x="730" y="761" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-59" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;pc端&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="720" width="70" height="40" as="geometry" />
+          <mxGeometry x="820" y="701" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
