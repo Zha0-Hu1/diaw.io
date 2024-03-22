@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T02:00:19.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="6hx5Em097Kw_D6h1D5XV" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T02:07:21.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="o2Mnz94C5ghnXJlFSYjg" version="24.0.7" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="1002" dy="577" grid="0" gridSize="500" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2227" dy="1282" grid="0" gridSize="500" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,99 +134,6 @@
         </mxCell>
         <mxCell id="-mKgr95Z99W6VE-P67Nl-59" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;pc端&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="820" y="701" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-mKgr95Z99W6VE-P67Nl-62" target="-mKgr95Z99W6VE-P67Nl-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-62" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="197" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-mKgr95Z99W6VE-P67Nl-65" target="-mKgr95Z99W6VE-P67Nl-71" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-65" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;系统初始化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1251.5" y="308" width="157" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-mKgr95Z99W6VE-P67Nl-71" target="-mKgr95Z99W6VE-P67Nl-73" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-mKgr95Z99W6VE-P67Nl-71" target="-mKgr95Z99W6VE-P67Nl-76" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-71" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;距离检测&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1255.5" y="422" width="149" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-mKgr95Z99W6VE-P67Nl-73" target="-mKgr95Z99W6VE-P67Nl-80" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-mKgr95Z99W6VE-P67Nl-73" target="-mKgr95Z99W6VE-P67Nl-86" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-mKgr95Z99W6VE-P67Nl-73" target="-mKgr95Z99W6VE-P67Nl-86" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-mKgr95Z99W6VE-P67Nl-73" target="-mKgr95Z99W6VE-P67Nl-90" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-73" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;体温检测&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="581" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-76" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;待机状态&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1469" y="531" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-79" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;不在测量距离内&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1446" y="441" width="186" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-mKgr95Z99W6VE-P67Nl-80" target="-mKgr95Z99W6VE-P67Nl-96" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-80" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;数据存储&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="731" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-82" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1435" y="688" as="sourcePoint" />
-            <mxPoint x="1326" y="688" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-mKgr95Z99W6VE-P67Nl-83" target="-mKgr95Z99W6VE-P67Nl-84" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-mKgr95Z99W6VE-P67Nl-83" target="-mKgr95Z99W6VE-P67Nl-92" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-83" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;蓝牙模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1437" y="659" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-84" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;云端&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="637" width="106" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-86" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;指示灯&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="581" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-90" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;语音播报&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1067" y="681" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-mKgr95Z99W6VE-P67Nl-92" target="-mKgr95Z99W6VE-P67Nl-94" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-92" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;上机位&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1437" y="787" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-94" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;交互按钮&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1437" y="901" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-mKgr95Z99W6VE-P67Nl-96" target="-mKgr95Z99W6VE-P67Nl-98" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-96" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;显示界面&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="844" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-98" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;下一次测量&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1251" y="961" width="159" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-mKgr95Z99W6VE-P67Nl-100" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;主程序流程图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1264" y="1100" width="234" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
